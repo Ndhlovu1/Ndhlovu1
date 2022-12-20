@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ndhlovu1
+- 👋 Hi, I’m Tinomudaishe Ndhlovu
 - 👀 I’m interested in Mobile App Development, Web Development, Blockchain Development
 - 🌱 I’m currently learning Smart Contract and IOS Development
 - 💞️ I’m looking to collaborate on Android Development
