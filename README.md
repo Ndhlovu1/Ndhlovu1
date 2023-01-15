@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Smart Contract and Cross Platform Development
 - 💞️ I’m looking to collaborate on projects similar to the ones above free/paid
 - 📫 Reach me here, www.linkedin.com/in/tinomudaishe-ndhlovu/
+- 📫 Credly skills https://www.credly.com/users/sultan-phx/badges
 
 
 <!---link
