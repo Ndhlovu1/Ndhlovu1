@@ -5,7 +5,7 @@
 - 📫 Reach me here, www.linkedin.com/in/tinomudaishe-ndhlovu/
 
 
-<!---
+<!---link
 Below is my github link
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
