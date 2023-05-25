@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile App Development, Web Development, Game Development, Blockchain and MainFrame Development
 - 🌱 I’m currently learning Smart Contract and Cross Platform Development
 - 💞️ I’m looking to collaborate on projects similar to the ones above 
-- 📫 Credly badges https://www.credly.com/users/sultan-phx/badges
+- 📫 Credly badges https://www.credly.com/users/ndhlovu1/badges
 
 
 <!---link
