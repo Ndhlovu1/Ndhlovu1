@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects similar to the ones above 
 - 📫 Credly badges https://www.credly.com/users/ndhlovu1/badges
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ndhlovu1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ndhlovu1" />
 </a>
 
