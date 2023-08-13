@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Smart Contract and Cross Platform Development
 - 💞️ I’m looking to collaborate on projects similar to the ones above 
 - 📫 Credly badges https://www.credly.com/users/ndhlovu1/badges
-- 🌱 https://Ndhlovu1.github.io
+- 🌱 Live Portfolio https://Ndhlovu1.github.io
 
 <a href="https://github.com/ndhlovu1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ndhlovu1&show_icons=true&theme=radical" />
