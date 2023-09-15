@@ -10,8 +10,7 @@
 </a>
 
 <!--NEW UPDATES-->
-<div style="text-align: center">  <img src="https://github.com/ndhlovu1/github-readme-stats.vercel.app/api?ndhlovu1=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400"><br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ndhlovu1=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 <!---
 link
 Below is my github link   
