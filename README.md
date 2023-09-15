@@ -9,9 +9,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ndhlovu1&show_icons=true&theme=radical" />
 </a>
 
-<!--NEW UPDATES-->
-  <img src="https://github.com/ndhlovu1/github-readme-stats.vercel.app/api/top-langs/?ndhlovu1=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  
 <!---
 link
 Below is my github link   
