@@ -5,10 +5,9 @@
 - 📫 Credly badges https://www.credly.com/users/ndhlovu1/badges
 - 🌱 Live Portfolio <a href="https://Ndhlovu1.github.io" target="_blank">Ndhlovu1.github.io</a>
 
-<!--
 <a href="https://github.com/ndhlovu1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ndhlovu1&show_icons=true&theme=radical" />
-</a> -->
+</a> 
 
 <!---
 link
